@@ -7,8 +7,8 @@ I'm Zekai Shen( Research Orientation:Computational Molcular Chemistry )
 
 Contact  
 Email: szkchris@sina.com   
-Twitter: Christopher   
-Linkedin: CondaPereira    
+Twitter: [Christopher](https://twitter.com/DYSUw27B55htWwA?s=09)     
+Linkedin: [CondaPereira](https://github.com/CondaPereira/)      
 <!--
 **CondaPereira/CondaPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
