@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Header](https://github.com/CondaPereira/CondaPereira/blob/main/stock.jpg "Header")](https://some-url.dev/)
 <!--
 **CondaPereira/CondaPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
