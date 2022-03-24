@@ -1,5 +1,14 @@
 [![Header](https://github.com/CondaPereira/CondaPereira/blob/main/stock_r.jpg "Header")](https://some-url.dev/)
 ### Personal Introduction👋
+I'm Zekai Shen( Research Orientation:Computational Molcular Chemistry )
+
+👨‍🎓 Undergraduate Student at China Pharmaceutical University
+🦾 Using Deep Learning and some classical kinds of Simulation tools
+
+Contact
+Email: szkchris@sina.com
+Twitter: Christopher
+Linkedin: CondaPereira
 <!--
 **CondaPereira/CondaPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
