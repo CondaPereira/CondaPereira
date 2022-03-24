@@ -1,5 +1,5 @@
 [![Header](https://github.com/CondaPereira/CondaPereira/blob/main/stock_r.jpg "Header")](https://some-url.dev/)
-### Personal Introduction👋
+## Personal Introduction👋
 I'm Zekai Shen( Research Orientation:Computational Molcular Chemistry )
 
 👨‍🎓 Undergraduate Student at China Pharmaceutical University  
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CondaPereira&langs_count=2&theme=graywhite&show_icons=true" width="300px"/>
 </a>
 
-### Main purpose & Work🙌
+## Main purpose & Work🙌
 ![](https://img.shields.io/badge/MainTab-DLforprotein-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
