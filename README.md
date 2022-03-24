@@ -1,6 +1,6 @@
 [![Header](https://github.com/CondaPereira/CondaPereira/blob/main/personal_r.jpg "Header")](https://some-url.dev/)
 ## Personal Introduction👋
-I'm Zekai Shen( Research Orientation:Computational Molcular Chemistry )
+I'm Zekai Shen(Research Orientation:Computational Molcular Chemistry)
 
 👨‍🎓 Undergraduate Student at China Pharmaceutical University  
 🦾 Using Deep Learning and some classical kinds of Simulation tools  
