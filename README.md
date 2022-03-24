@@ -6,9 +6,9 @@ I'm Zekai Shen( Research Orientation:Computational Molcular Chemistry )
 🦾 Using Deep Learning and some classical kinds of Simulation tools  
 
 Contact  
-Email: szkchris@sina.com   
-Twitter: [Christopher](https://twitter.com/DYSUw27B55htWwA?s=09)     
-Linkedin: [CondaPereira](https://github.com/CondaPereira/)      
+📩Email: szkchris@sina.com   
+📭Twitter: [Christopher](https://twitter.com/DYSUw27B55htWwA?s=09)     
+😄Linkedin: [CondaPereira](https://github.com/CondaPereira/)      
 <!--
 **CondaPereira/CondaPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
