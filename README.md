@@ -33,3 +33,4 @@ Here are some ideas to get you started:
 
 ## Main purpose & Work🙌
 ![](https://img.shields.io/badge/MainTab-DLforprotein-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Chemistry-MolDesign-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
