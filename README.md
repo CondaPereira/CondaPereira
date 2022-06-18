@@ -1,4 +1,4 @@
-[![Header](https://github.com/CondaPereira/CondaPereira/blob/main/image/helix.jpg "Header")](https://some-url.dev/)
+[![Header](https://github.com/CondaPereira/CondaPereira/blob/main/image/personal_r.jpg "Header")](https://some-url.dev/)
 ## Personal Introduction👋
 I'm Zekai Shen(Research Orientation:Computational Molcular Chemistry)
 
