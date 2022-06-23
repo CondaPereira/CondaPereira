@@ -5,7 +5,7 @@ I'm Zekai Shen(Research Orientation:Computational Molcular Chemistry)
 👨‍🎓 Undergraduate Student at China Pharmaceutical University  
 🦾 Using Deep Learning and some classical kinds of Simulation tools  
 
-Contact  
+Contact:  
 📩Email: szkchris@sina.com   
 📭Twitter: [Christopher](https://twitter.com/DYSUw27B55htWwA?s=09)     
 😄Linkedin: [CondaPereira](https://github.com/CondaPereira/)      
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CondaPereira&theme=graywhite&show_icons=true" width="450px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CondaPereira&theme=blue&show_icons=true" width="450px"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CondaPereira&langs_count=4&theme=graywhite&show_icons=true" width="220px"/>
